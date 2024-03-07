@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "KebeanPortfolio_jwtKebean",
+    "db":"mongodb+srv://chenqiua:beandenzel123333@cluster0.gcn1z85.mongodb.net/KebeanElie_tests"
+}
